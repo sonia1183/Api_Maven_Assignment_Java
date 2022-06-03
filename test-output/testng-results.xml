@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-20T09:41:43 IST" name="Default suite" finished-at="2022-05-20T09:41:48 IST" duration-ms="4533">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T09:41:43 IST" name="Default test" finished-at="2022-05-20T09:41:48 IST" duration-ms="4533">
+      <class name="testing_API.Test1">
+        <test-method signature="testGET()[pri:1, instance:testing_API.Test1@65466a6a]" started-at="2022-05-20T09:41:43 IST" name="testGET" description="GET method" finished-at="2022-05-20T09:41:46 IST" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGET -->
+        <test-method signature="testPOST()[pri:2, instance:testing_API.Test1@65466a6a]" started-at="2022-05-20T09:41:46 IST" name="testPOST" description="POST method" finished-at="2022-05-20T09:41:47 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOST -->
+        <test-method signature="testPUT()[pri:3, instance:testing_API.Test1@65466a6a]" started-at="2022-05-20T09:41:47 IST" name="testPUT" description="PUT method" finished-at="2022-05-20T09:41:47 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPUT -->
+        <test-method signature="testDELETE()[pri:4, instance:testing_API.Test1@65466a6a]" started-at="2022-05-20T09:41:47 IST" name="testDELETE" description="DELETE method" finished-at="2022-05-20T09:41:48 IST" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDELETE -->
+      </class> <!-- testing_API.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
